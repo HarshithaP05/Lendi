@@ -53,7 +53,7 @@
 <body>
 
 <header>
-    <h1>Shalini Institute of Engineering & Technology</h1>
+    <h1>Harshitha Institute of Engineering & Technology</h1>
     <p>An Autonomous Institution Approved by AICTE & Permanently Affiliated to JNTU Gurajada, Vizianagaram</p>
 </header>
 
@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Shalini Institute of Engineering & Technology</p>
+    <p>&copy; 2024 Harshitha Institute of Engineering & Technology</p>
 </footer>
 
 </body>
